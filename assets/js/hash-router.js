@@ -10,12 +10,7 @@ const routes = {
 		title: "Home | " + pageTitle,
 		description: "This is the home page",
 	},
-	nosotros: {
-		template: "/templates/nosotros.html",
-		title: "Nosotros | " + pageTitle,
-		description: "This is the about page",
-	},
-	nosotros: {
+	store: {
 		template: "/templates/store.html",
 		title: "Store | " + pageTitle,
 		description: "This is the about page",
